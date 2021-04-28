@@ -35,6 +35,10 @@
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000005?style=flat&logo=visual%20studio%20code)<br />
 
+<p align="left">
+ <a href="https://github.com/rahmanrafi32"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmanrafi32&theme=dracula"></a>
+</p>
+
 ### GitHub Statas
 ![rafi's statas](https://github-readme-stats.vercel.app/api?username=rahmanrafi32&count_private=true&show_icons=true&theme=dracula)
 
