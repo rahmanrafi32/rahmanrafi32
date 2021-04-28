@@ -6,7 +6,7 @@
 - My LinkdIN Profile: https://www.linkedin.com/feed/
 - ⚡ One thing about me is Am a hardworking person
 
-### Skills
+## Skills
 - HTML 5
 - CSS 3
 - Bootstrap 4.6+
@@ -14,7 +14,7 @@
 - Python
 - Javascript
 
-### Technologies
+## Technologies
 - React Js
 - React Native
 - Node Js
