@@ -2,7 +2,7 @@
 
 - 🤔 I’m studying at: Metropalitan University
 - 💬 Ask me about: anything intersting
-- 📫 How to reach me: https://www.facebook.com/rafi.rahman.184
+- 📫 How to reach me: https://minhazur-rahman.web.app/
 - My LinkdIN Profile: https://www.linkedin.com/feed/
 - ⚡ One thing about me is Am a hardworking person
 
