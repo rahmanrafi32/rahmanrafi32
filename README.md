@@ -9,7 +9,7 @@
 ## Skills
 - HTML 5
 - CSS 3
-- Bootstrap 4.6+
+- Bootstrap 5.0
 - C
 - Python
 - Javascript
