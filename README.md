@@ -43,4 +43,4 @@
 
 ![rafi's statas](https://github-readme-stats.vercel.app/api?username=rahmanrafi32&count_private=true&show_icons=true&theme=dracula)
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanrafi32&hide=python&layout=compact&theme=dracula)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanrafi32&layout=compact&theme=dracula)
