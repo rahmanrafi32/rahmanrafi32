@@ -18,6 +18,7 @@
 - React Js
 - React Native
 - Node Js
+- Redux
 - Express Js
 - Mongodb
 
