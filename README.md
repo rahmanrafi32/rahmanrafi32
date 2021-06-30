@@ -33,7 +33,6 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase) 
 ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku) <br />
-![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000005?style=flat&logo=visual%20studio%20code)<br />
 
 ## GitHub Overview
