@@ -1,10 +1,10 @@
 ### Hola, Welcome to my GitHub Profile
 
-- 🤔 I’m studying at: Metropalitan University
-- 💬 Ask me about: anything intersting
-- 📫 How to reach me: https://minhazur-rahman.web.app/
-- My LinkdIN Profile: https://www.linkedin.com/feed/
-- ⚡ One thing about me is Am a hardworking person
+- I’m studying at: Metropalitan University
+- Ask me about: anything intersting
+- How to reach me: https://minhazur-rahman.web.app/
+- My LinkdIN Profile: https://www.linkedin.com/in/minhazur-rahman-rafi-7b3381159/
+- One thing about me is Am a hardworking person
 
 ## Skills
 - HTML 5
