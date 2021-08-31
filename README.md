@@ -10,7 +10,7 @@ I am a full-stack developer. Currently am reading in BSc. in Computer Science an
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 🤔 &emsp;I’m looking for people who can help me with techniques and tehcnologies<br/>
 
-#### Things I code with
+### Things I code with
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
