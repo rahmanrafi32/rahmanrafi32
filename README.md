@@ -35,8 +35,8 @@ I am a full-stack developer. Currently am reading in BSc. in Computer Science an
 
 ## GitHub Overview
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmanrafi32&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/rahmanrafi32/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Minhazur Rahman Rafi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rahmanrafi32&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
   <br/>
