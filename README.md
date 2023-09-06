@@ -1,6 +1,6 @@
 ## Hola! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I am a full-stack developer. Currently am working on a tech company name console-it as a jr. software engineer. I love to learn new things. Most of time i spend my day by coding.
+I am a full-stack developer. Currently am working on a tech company name Kalpas Innovation pvt. ltd. as a jr. software engineer. I love to learn new things. Most of time i spend my day by coding.
 
 :coffee: &emsp;Connect with me!
 
