@@ -30,7 +30,7 @@ I am a full-stack developer. Currently am working on a tech company name Kalpas 
 <p align="left"> 
      <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/></a> 
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/?id=UlbSCuJ58ErO&format=png&color=000000"/></a> 
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://icons8.com/icon/32sNCVhNAx9Y/webstorm"/></a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 <br/>
