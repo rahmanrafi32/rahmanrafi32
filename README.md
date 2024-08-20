@@ -18,20 +18,20 @@ I am a full-stack developer. Currently am working on a tech company name Kalpas 
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a> 
     <a href="https://material-ui.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> </a> 
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="tailwindcss"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://nodejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="mysql"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=38561&format=png&color=000000" alt="postgresql"/> </a>
+    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=38561&format=png&color=000000" alt="postgresql"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+    <a href="https://redux.js.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://graphql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/graphql.png"/> </a>
     <a href="https://www.apollographql.com/docs/react/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/apollo.png"/> </a>
 </p>
 <p align="left"> 
-     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+     <a href="https://postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/></a> 
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=32sNCVhNAx9Y&format=png&color=000000"/></a> 
+    <a href="https://jetbrains.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=32sNCVhNAx9Y&format=png&color=000000"/></a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 <br/>
