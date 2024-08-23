@@ -30,8 +30,11 @@ I am a full-stack developer. Currently am working on a tech company name Kalpas 
     <a href="https://graphql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/graphql.png"/> </a>
     <a href="https://www.apollographql.com/docs/react/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/apollo.png"/> </a>
 </p>
+<p align="left">
+    <a href="https://redis.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-official.svg" alt="redis" width="45" height="45"/> </a>   
+</p>
 <p align="left"> 
-     <a href="https://postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+    <a href="https://postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/></a> 
     <a href="https://jetbrains.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=32sNCVhNAx9Y&format=png&color=000000"/></a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
