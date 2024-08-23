@@ -31,7 +31,8 @@ I am a full-stack developer. Currently am working on a tech company name Kalpas 
     <a href="https://www.apollographql.com/docs/react/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/apollo.png"/> </a>
 </p>
 <p align="left">
-    <a href="https://redis.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-official.svg" alt="redis" width="55" height="55"/> </a>   
+    <a href="https://redis.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-official.svg" alt="redis" width="55" height="55"/> </a> 
+    <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="apache_kafka" width="55" height="55"/> </a>   
 </p>
 <p align="left"> 
     <a href="https://postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
