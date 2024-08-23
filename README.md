@@ -14,6 +14,7 @@ I am a full-stack developer. Currently am working on a tech company name Kalpas 
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://nextjs.org/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=yUdJlcKanVbh&format=png&color=000000"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a> 
     <a href="https://material-ui.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> </a> 
