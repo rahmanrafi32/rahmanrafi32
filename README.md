@@ -1,6 +1,11 @@
 ## Hola! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I am a full-stack developer. Currently am working on a tech company name Kalpas Innovation pvt. ltd. as a jr. software engineer. I love to learn new things. Most of time i spend my day by coding.
+Full Stack Developer with 4.5+ years of experience building scalable SaaS platforms and
+real-time web applications processing 10M+ records. Proven expertise in end-to-end feature
+delivery using React/Next.js + Node.js/NestJS, from pixel-perfect responsive UIs and complex
+dashboards to high-performance microservices, PostgreSQL optimization, Kafka streaming, and
+Kubernetes deployments. Delivered 8–10× faster analytics, Royal Enfield’s connected-vehicle
+platform, and a multi-tenant restaurant SaaS used by 100+ branches.
 
 :coffee: &emsp;Connect with me!
 
